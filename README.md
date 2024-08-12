@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Manoranjith</h1>
         <p>Data Analyst & Cloud Developer</p>
         <nav>
             <ul>
@@ -22,12 +22,12 @@
     </header>
     <section id="about">
         <h2>About Me</h2>
-        <p>Welcome! I'm a data analyst and cloud developer with a background in mechanical engineering. I specialize in leveraging cloud technologies and data analysis tools to solve complex problems and drive business success.</p>
+        <p>Hello! I'm Manoranjith data analyst and cloud developer with a background in mechanical engineering. I specialize in leveraging cloud technologies and data analysis tools to solve complex problems and drive business success.</p>
     </section>
     <section id="resume">
         <h2>Resume</h2>
         <h3>Education</h3>
-        <p>Bachelor's in Mechanical Engineering, [Your University], 2021</p>
+        <p>Bachelor's in Mechanical Engineering, [Sri Ramakrishna Institute of Technology], 2021</p>
         <h3>Technical Skills</h3>
         <ul>
             <li>Programming Languages: Python, Go</li>
@@ -51,11 +51,11 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: [Your Email Address]</p>
-        <p>LinkedIn: [Your LinkedIn Profile]</p>
+        <p>Email: [ranjithmano386@gamil.com]</p>
+        <p>LinkedIn: [www.linkedin.com/in/manoranjith77]</p>
     </section>
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Manoranjith. All rights reserved.</p>
     </footer>
 </body>
 </html>
